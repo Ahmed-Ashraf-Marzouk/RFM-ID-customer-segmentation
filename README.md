@@ -1,1 +1,1 @@
-# Customer segmentation using Machine learning applied on RFM-ID analysis
+# Customer segmentation using Machine learning applied on RFMI analysis
