@@ -1,14 +1,15 @@
-# Customer segmentation using Machine learning applied on RFMI analysis
+# Customer segmentation using Machine learning applied on RFMVD analysis
 
-## RFMI
+## RFMVD
 R(Recenecy): How recently did the customer purchase?
 
 F(Frequency): How often do they purchase?
 
 M(Monetary): How much do they spend?
 
-I(Intenisty): How many do they buy per transaction?
+V(Variety): How many different products do they buy per transaction?
 
+D(Duration): How much time between each two transactions?
 ## Data Description:
 
 InvoiceNo(Nominal): A 6-digit integral number uniquely assigned to each transaction. If this code starts with the letter 'c', it indicates a cancellation. 
