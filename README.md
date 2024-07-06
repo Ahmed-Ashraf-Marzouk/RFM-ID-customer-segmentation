@@ -44,3 +44,8 @@ To make our code more clean we grouped shared code into common files. The struct
 <p align="center">
   <img src="media/CTS.png" width="750" title="hover text">
 </p>
+
+### CTS graph
+<p align="center">
+  <img src="media/CTS_graph_annotated.png" width="750" title="hover text">
+</p>
