@@ -1,5 +1,5 @@
 # Customer segmentation using Machine learning applied on RFMVD analysis
-Traditional customer segmentation is based on the `RFM` (`Recency`, `Frequency`, and `Monetary`) score. In this paper, we introduce a novel double-customer segmentation method applied on `RFM-VD` (`Recency`, `Frequency`, `Monetary`, `Variety`, and `Duration`) using machine learning. This study compares K-means, hierarchical clustering, and Density-Based Spatial Clustering of Applications with Noise (DBSCAN) agianst evaluation metrics, providing valuable business insights. Additionally, we introduce a new `Customer Transition Score` `(CTS)` to evaluate the change in customer value over time for businesses numerically .
+Traditional customer segmentation is based on the `RFM` (`Recency`, `Frequency`, and `Monetary`) score. In this paper, we introduce a novel `double-customer segmentation` method applied on `RFM-VD` (`Recency`, `Frequency`, `Monetary`, `Variety`, and `Duration`) using machine learning. This study compares K-means, hierarchical clustering, and Density-Based Spatial Clustering of Applications with Noise (DBSCAN) agianst evaluation metrics, providing valuable business insights. Additionally, we introduce a new `Customer Transition Score` `(CTS)` to evaluate the change in customer value over time for businesses numerically .
 ## RFMVD
 `R(Recenecy):` How recently did the customer purchase?
 
@@ -32,5 +32,9 @@ Traditional customer segmentation is based on the `RFM` (`Recency`, `Frequency`,
 To make our code more clean we grouped shared code into common files. The structure of the code as follows: 
 
 <p align="center">
-  <img src="media/File_structure2.png" width="450" title="hover text">
+  <img src="media/File_structure_w.png" width="450" title="hover text">
 </p>
+
+## Double Customer Segmentation
+
+## Customer Transition Score (CTS)
