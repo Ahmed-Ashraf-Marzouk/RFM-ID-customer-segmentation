@@ -38,3 +38,6 @@ To make our code more clean we grouped shared code into common files. The struct
 ## Double Customer Segmentation
 
 ## Customer Transition Score (CTS)
+<p align="center">
+  <img src="media/CTS.png" width="750" title="hover text">
+</p>
