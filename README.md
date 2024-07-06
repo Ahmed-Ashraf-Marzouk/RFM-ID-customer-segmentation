@@ -36,6 +36,9 @@ To make our code more clean we grouped shared code into common files. The struct
 </p>
 
 ## Double Customer Segmentation
+<p align="center">
+  <img src="media/Double_Segmentation.png" width="750" title="hover text">
+</p>
 
 ## Customer Transition Score (CTS)
 <p align="center">
