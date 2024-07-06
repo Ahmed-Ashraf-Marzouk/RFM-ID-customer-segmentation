@@ -34,3 +34,7 @@ To make our code more clean we grouped shared code into common files. The struct
 <p align="center">
   <img src="media/File_structure_w.png" width="450" title="hover text">
 </p>
+
+## Double Customer Segmentation
+
+## Customer Transition Score (CTS)
