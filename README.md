@@ -31,4 +31,6 @@ Traditional customer segmentation is based on the `RFM` (`Recency`, `Frequency`,
 ## File Structure
 To make our code more clean we grouped shared code into common files. The structure of the code as follows: 
 
-![alt text](media/File_structure2.png)
+<p align="center">
+  <img src="media/File_structure2.png" width="450" title="hover text">
+</p>
