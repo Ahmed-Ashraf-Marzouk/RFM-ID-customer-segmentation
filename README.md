@@ -1,4 +1,4 @@
-# Customer segmentation using Machine learning applied on RFMVD analysis
+# Double Customer Segmentation Applied On RFM-VD \& New Customer Transition Score (CTS)
 Traditional customer segmentation is based on the `RFM` (`Recency`, `Frequency`, and `Monetary`) score. In this paper, we introduce a novel `double-customer segmentation` method applied on `RFM-VD` (`Recency`, `Frequency`, `Monetary`, `Variety`, and `Duration`) using machine learning. This study compares K-means, hierarchical clustering, and Density-Based Spatial Clustering of Applications with Noise (DBSCAN) agianst evaluation metrics, providing valuable business insights. Additionally, we introduce a new `Customer Transition Score` `(CTS)` to evaluate the change in customer value over time for businesses numerically .
 ## RFMVD
 `R(Recenecy):` How recently did the customer purchase?
@@ -43,4 +43,9 @@ To make our code more clean we grouped shared code into common files. The struct
 ## Customer Transition Score (CTS)
 <p align="center">
   <img src="media/CTS.png" width="750" title="hover text">
+</p>
+
+### CTS graph
+<p align="center">
+  <img src="media/CTS_graph_annotated.png" width="750" title="hover text">
 </p>
