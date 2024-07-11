@@ -35,12 +35,18 @@ To make our code more clean we grouped shared code into common files. The struct
   <img src="media/File_structure_w.png" width="450" title="hover text">
 </p>
 
-## Machine learning workflow
+## Machine learning Comparison workflow
 <p align="center">
-  <img src="media/System_diagram.png" width="750" title="hover text">
+  <img src="media/ML_workflow.png" width="750" title="hover text">
 </p>
 
 ## Double Customer Segmentation
+### Workflow
+<p align="center">
+  <img src="media/double_seg_workflow.png" width="750" title="hover text">
+</p>
+
+### Illustration
 <p align="center">
   <img src="media/Double_Segmentation.png" width="750" title="hover text">
 </p>
